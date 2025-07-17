@@ -1,0 +1,9 @@
+gradio
+pandas
+numpy
+spacy
+torch
+transformers
+huggingface_hub==0.16.4
+sentence-transformers
+https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.7.1/en_core_web_sm-3.7.1.tar.gz
