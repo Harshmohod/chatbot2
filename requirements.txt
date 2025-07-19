@@ -1,9 +1,9 @@
-gradio
+fastapi
+uvicorn
 pandas
-numpy
+scikit-learn
 spacy==3.7.2
-torch
-transformers
 sentence-transformers
+numpy
 blis==0.7.9
-https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.7.1/en_core_web_sm-3.7.1.tar.gz
+
