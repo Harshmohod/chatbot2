@@ -1,9 +1,9 @@
 gradio
 pandas
 numpy
-spacy
+spacy==3.7.2
 torch
 transformers
-huggingface_hub==0.16.4
 sentence-transformers
+blis==0.7.9
 https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.7.1/en_core_web_sm-3.7.1.tar.gz
